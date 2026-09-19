@@ -3,7 +3,9 @@ Repository for my QDD actuators for robotic joints.
 
 * UNDER CONSTRUCTION *
 
-## V1-8308: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
+## V1-8308
+
+9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
 
 <image src="https://github.com/user-attachments/assets/b5a6a174-bfce-4c8d-84f3-c20a12813fbe" width="45%">
 
