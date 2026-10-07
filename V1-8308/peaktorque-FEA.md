@@ -1,3 +1,9 @@
+---
+title: FEA Analysis
+parent: YVQDD-8308
+nav_order: 2
+---
+
 # Peak Torque Derivation + Finite Element Analysis on Ring Gear
 
 *Note: Variable nomenclature may be inconsistent across modules. Each page should be self-contained.
