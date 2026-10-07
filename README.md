@@ -7,8 +7,6 @@ permalink: /
 # Robotic Drivetrains
 Repository for my quasi-direct drive actuators for robotic joints. 
 
-* UNDER CONSTRUCTION *
-
 ## YVQDD-8308-9P
 
 V1: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
