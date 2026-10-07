@@ -13,7 +13,7 @@ Repository for my quasi-direct drive actuators for robotic joints.
 <source src="https://github.com/user-attachments/assets/7d0ac10a-c928-46ae-ab19-bae952156b20" type="video/mp4">
 </video>
 <img src="https://github.com/user-attachments/assets/4a8893b9-2962-4c75-95a6-a163aaa1dd70" style="width: 48%; height: auto;" loading="lazy">
-<video autoplay muted loop playsinline style="width: 25%; height: auto;">
+<video autoplay muted loop playsinline style="width: 23%; height: auto;">
 <source src="https://github.com/user-attachments/assets/a29298ff-3fe4-433a-bd88-ba519e108971" type="video/mp4">
 </video>
 </div>
@@ -28,6 +28,7 @@ V1: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
 <image src="https://github.com/user-attachments/assets/defeb4e8-98d0-4ee0-a5ba-56b84db125e3" width="25%">
 
 Status: complete. Check out the documentation [here](V1-8308/README.md).
+
 <br>
 
 ## YVQDD-8308-6P
