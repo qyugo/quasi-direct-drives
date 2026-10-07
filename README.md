@@ -27,9 +27,10 @@ V1: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
 
 <image src="https://github.com/user-attachments/assets/defeb4e8-98d0-4ee0-a5ba-56b84db125e3" width="25%">
 
-Status: complete. Check out the documentation [here](V1-8308/README.md).
-
 <br>
+</div>
+
+Status: complete. Check out the documentation [here](V1-8308/README.md).
 
 ## YVQDD-8308-6P
 
