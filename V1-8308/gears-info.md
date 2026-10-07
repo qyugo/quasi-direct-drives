@@ -8,9 +8,10 @@ nav_order: 1
 
 The gearbox was constructed in Onshape. In this module (not gear module), each attribute of gearbox construction will be discussed, as well as considerations to design requirements, such as backdrivability.
 
-<img src="https://github.com/user-attachments/assets/de389647-cb18-4862-9d56-fc4ffb5b0157" width="25%"> 
-
-<img src="https://github.com/user-attachments/assets/78f2e698-6419-4be5-bf4b-153fd45b66b4" width="53%"> 
+<div style="display: flex; gap: 1rem;">
+  <img src="https://github.com/user-attachments/assets/de389647-cb18-4862-9d56-fc4ffb5b0157" style="width: 25%;">
+  <img src="https://github.com/user-attachments/assets/78f2e698-6419-4be5-bf4b-153fd45b66b4" style="width: 53%;">
+</div>
 
 ## Gear Teeth Relations
 
