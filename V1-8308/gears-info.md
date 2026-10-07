@@ -1,3 +1,9 @@
+---
+title: V1 Design Documentation
+parent: YVQDD-8308
+nav_order: 1
+---
+
 ## 9:1 Planetary Gearbox
 
 The gearbox was constructed in Onshape. In this module (not gear module), each attribute of gearbox construction will be discussed, as well as considerations to design requirements, such as backdrivability.
