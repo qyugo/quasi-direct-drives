@@ -1,11 +1,17 @@
-# quasi-direct-drives
-Repository for my QDD actuators for robotic joints. 
+---
+title: Overview
+nav_order: 1
+permalink: /
+---
+
+# Robotic Drivetrains
+Repository for my quasi-direct drive actuators for robotic joints. 
 
 * UNDER CONSTRUCTION *
 
-## V1-8308
+## YVQDD-8308-9P
 
-9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
+V1: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
 
 <image src="https://github.com/user-attachments/assets/b5a6a174-bfce-4c8d-84f3-c20a12813fbe" width="45%">
 
@@ -13,6 +19,15 @@ Repository for my QDD actuators for robotic joints.
 
 https://github.com/user-attachments/assets/7d0ac10a-c928-46ae-ab19-bae952156b20
 
-## Additional Projects
+## YVQDD-8308-6P
 
-Later implementations: Smaller V2 actuator for my custom 8110 motor and my YVGESC-1 motor drivers.
+A higher torque 6:1 planetary gearbox for the 8308 motors, with better mechanical design for size minimization.
+
+## In Progress: YVQDD-8110-9P
+
+Full-stack implementation of my work.
+9:1 planetary QDD for my custom, hand-wound PETG motors (YV8110), driven by the YVGESC-1 FOC driver.
+
+## Later implementations
+
+Later on, I'd like to try out some capstan stuff, perhaps an assistive suit to make me stronger while training Planche.
