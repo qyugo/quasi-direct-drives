@@ -46,15 +46,17 @@ For the example provided, S = 12, P = 42, R = 96, and N = 3, the above relations
 ## Gear Geometry
 Beyond teeth count and module scaling, tooth geometry can be adjusted to tune mechanical performance, specifically gear contact area and bending characteristics of each tooth. Specifically, _pressure angle_ and _root fillet_ radius:
 
-<img src="https://github.com/user-attachments/assets/e2e8a4a7-ccc4-4949-bd4c-bb188a5c1379" width="40%"> 
-
-<img src="https://github.com/user-attachments/assets/de928047-d59a-4608-a4fe-0706d418c21f" width="42%"> 
+<div style="display: flex; gap: 1rem;">
+  <img src="https://github.com/user-attachments/assets/e2e8a4a7-ccc4-4949-bd4c-bb188a5c1379" style="width: 40%;">
+  <img src="https://github.com/user-attachments/assets/de928047-d59a-4608-a4fe-0706d418c21f" style="width: 42%;">
+</div>
 
 ### Pressure Angle
 
-<img src="https://github.com/user-attachments/assets/bf2989de-bcab-4701-ad69-efb5f365b6c3" width="42%"> 
-
-<img src="https://github.com/user-attachments/assets/ee59b777-2b2b-4814-97c8-912e4c163487" width="36%"> 
+<div style="display: flex; gap: 1rem;">
+  <img src="https://github.com/user-attachments/assets/bf2989de-bcab-4701-ad69-efb5f365b6c3" style="width: 42%;">
+  <img src="https://github.com/user-attachments/assets/ee59b777-2b2b-4814-97c8-912e4c163487" style="width: 36%;">
+</div>
 
 Increase in pressure angle generates a wider tooth base, allowing for a stronger tooth, but a smaller contact area and slightly worse NVH (Noise, Vibration, Harshness) attributes. There is also an increase in radial force transmitted to the shaft and bearings.
 
@@ -66,9 +68,10 @@ In a 3D-printed drive, it's most likely that the HPSTC, particularly on the ring
 
 Root fillet is a more direct fortifier of gear teeth against root bending; a comparison between a 1/3 root fillet vs. a full fillet is provided below:
 
-<img src="https://github.com/user-attachments/assets/f691bc07-7907-4b59-8da4-6662f1e913c0" width="38%">
-
-<img src="https://github.com/user-attachments/assets/99153acf-6953-46ca-9939-28b03c878ebb" width="45%">
+<div style="display: flex; gap: 1rem;">
+  <img src="https://github.com/user-attachments/assets/f691bc07-7907-4b59-8da4-6662f1e913c0" style="width: 38%;">
+  <img src="https://github.com/user-attachments/assets/99153acf-6953-46ca-9939-28b03c878ebb" style="width: 45%;">
+</div>
 
 The first prototype 9:1 actuator utilizes 1/3 root fillets and PETG print, although a full fillet may be constructed along with Nylon CF.
 
