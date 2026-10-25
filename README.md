@@ -31,15 +31,9 @@ V1: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
 
 Status: complete. Check out the documentation [here](V1-8308/README.md).
 
-## YVQDD-8308-6P
+## YV2205-24P
 
-A higher torque 6:1 planetary gearbox for the 8308 motors, with better mechanical design for size minimization.
+24:1, 2-stage planetary for 2205 12N14P motor driven by SimpleFOCMini and AS5600 I2C encoder.
 
-## In Progress: YVQDD-8110-9P
+<img width="724" height="574" alt="Screenshot 2026-10-25 at 3 06 11 PM" src="https://github.com/user-attachments/assets/f995ee8b-6fcf-4b22-a98d-cbc143492546" />
 
-Full-stack implementation of my work.
-9:1 planetary QDD for my custom, hand-wound PETG motors (YV8110), driven by the YVGESC-1 FOC driver.
-
-## Later implementations
-
-Later on, I'd like to try out some capstan stuff, perhaps an assistive suit to make me stronger while training Planche.
