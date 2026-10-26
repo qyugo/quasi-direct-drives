@@ -58,5 +58,8 @@ Status: complete. Check out the documentation [here](V1-8308/README.md).
 
 <img width="564" height="398" alt="image" src="https://github.com/user-attachments/assets/25ff8494-86d6-43d3-8f32-2016f09102fc" />
 
+## YV2804 (Neck, wrist)
+
+<img width="457" height="285" alt="Screenshot 2026-10-25 at 10 59 31 PM" src="https://github.com/user-attachments/assets/fcba2c37-982b-483e-b918-5b1159f72f8d" />
 
 
