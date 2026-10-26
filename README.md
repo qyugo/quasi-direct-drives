@@ -8,10 +8,10 @@ permalink: /
 
 Repository for my quasi-direct drive actuators for robotic joints. 
 
-<img src="https://github.com/user-attachments/assets/b8ddc608-c414-401d-8baa-07ef4816132a" width="22.5%"/>
-<img src="https://github.com/user-attachments/assets/8355d7b8-7d89-47e4-a35c-abf5f8e7f8ca" width="22.5%"/>
-<img src="https://github.com/user-attachments/assets/ec7c8f04-55b6-4e16-8a7e-75ff1d892ad9" width="22.5%"/>
-<img src="https://github.com/user-attachments/assets/36450930-476c-4c39-86ad-d3d915a53cd9" width="22.5%"/>
+<img src="https://github.com/user-attachments/assets/b8ddc608-c414-401d-8baa-07ef4816132a" width="25%"/>
+<img src="https://github.com/user-attachments/assets/8355d7b8-7d89-47e4-a35c-abf5f8e7f8ca" width="25%"/>
+<img src="https://github.com/user-attachments/assets/ec7c8f04-55b6-4e16-8a7e-75ff1d892ad9" width="20%"/>
+<img src="https://github.com/user-attachments/assets/36450930-476c-4c39-86ad-d3d915a53cd9" width="18%"/>
 
 
 ## YVQDD-8308-9P
