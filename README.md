@@ -31,7 +31,7 @@ V1: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
 
 Status: complete. Check out the documentation [here](V1-8308/README.md).
 
-## YV2205-24P
+## YV2205-24P (Wrist/Finger)
 
 24:1, 2-stage planetary for 2205 12N14P motor driven by SimpleFOCMini and AS5600 I2C encoder.
 
@@ -39,4 +39,14 @@ Status: complete. Check out the documentation [here](V1-8308/README.md).
 
 <img width="1920" height="1080" alt="2205render2" src="https://github.com/user-attachments/assets/8355d7b8-7d89-47e4-a35c-abf5f8e7f8ca" />
 <img width="1920" height="1080" alt="2205render1" src="https://github.com/user-attachments/assets/b8ddc608-c414-401d-8baa-07ef4816132a" />
+
+## YV3510 (Wrist/Elbow)
+
+<img width="671" height="421" alt="image" src="https://github.com/user-attachments/assets/82fa657a-e70f-430f-8241-a147d4446990" />
+
+## YV4008 (Wrist/Elbow/Shoulder)
+
+<img width="564" height="398" alt="image" src="https://github.com/user-attachments/assets/25ff8494-86d6-43d3-8f32-2016f09102fc" />
+
+
 
