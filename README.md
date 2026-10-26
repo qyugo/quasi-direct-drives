@@ -8,6 +8,17 @@ permalink: /
 
 Repository for my quasi-direct drive actuators for robotic joints. 
 
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://www.youtube.com/embed/qwjcmBWuhKc"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    title="foc on custom board"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+</div>
+
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <video autoplay muted loop playsinline style="width: 22%; height: auto;">
 <source src="https://github.com/user-attachments/assets/7d0ac10a-c928-46ae-ab19-bae952156b20" type="video/mp4">
