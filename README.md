@@ -8,16 +8,9 @@ permalink: /
 
 Repository for my quasi-direct drive actuators for robotic joints. 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe
-    src="https://www.youtube.com/embed/qwjcmBWuhKc"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
-    title="foc on custom board"
-    loading="lazy"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen>
-  </iframe>
-</div>
+## YVQDD-8308-9P
+
+V1: 9:1 planetary for 8308 36N40P motor.
 
 <div style="display: flex; gap: 1rem; align-items: flex-start;">
   <video autoplay muted loop playsinline style="width: 22%; height: auto;">
@@ -29,15 +22,17 @@ Repository for my quasi-direct drive actuators for robotic joints.
 </video>
 </div>
 
+Step and Impedance control:
 
-## YVQDD-8308-9P
-
-V1: 9:1 planetary for 8308 36N40P motor driven by an ODrive S1.
--debug
-
-<div style="display: flex; gap: 1rem; align-items: flex-start;">
-  <img src="https://github.com/user-attachments/assets/b5a6a174-bfce-4c8d-84f3-c20a12813fbe" style="width: 57%; height: auto;" loading="lazy">
-  <img src="https://github.com/user-attachments/assets/defeb4e8-98d0-4ee0-a5ba-56b84db125e3" style="width: 32%; height: auto;" loading="lazy">
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://www.youtube.com/embed/qwjcmBWuhKc"
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: 0;"
+    title="foc on custom board"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
 </div>
 
 Status: complete. Check out the documentation [here](V1-8308/README.md).
