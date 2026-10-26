@@ -68,4 +68,11 @@ Status: complete. Check out the documentation [here](V1-8308/README.md).
 
 <img width="457" height="285" alt="Screenshot 2026-10-25 at 10 59 31 PM" src="https://github.com/user-attachments/assets/fcba2c37-982b-483e-b918-5b1159f72f8d" />
 
+## YV8110 (Shoulder, Hips)
+
+Fully custom stack (driver, metal motor, drivetrain).
+
+<img width="648" height="428" alt="Screenshot 2026-10-26 at 12 02 24 AM" src="https://github.com/user-attachments/assets/c6ed34bc-2d0a-42e8-8aea-b175092b81e9" />
+
+
 
