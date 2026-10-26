@@ -8,6 +8,9 @@ permalink: /
 
 Repository for my quasi-direct drive actuators for robotic joints. 
 
+<img src="https://github.com/user-attachments/assets/b8ddc608-c414-401d-8baa-07ef4816132a" width="45%"/>
+<img src="https://github.com/user-attachments/assets/8355d7b8-7d89-47e4-a35c-abf5f8e7f8ca" width="45%"/>
+
 ## YVQDD-8308-9P
 
 V1: 9:1 planetary for 8308 36N40P motor.
