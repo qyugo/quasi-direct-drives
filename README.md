@@ -41,10 +41,11 @@ Status: complete. Check out the documentation [here](V1-8308/README.md).
 
 24:1, 2-stage planetary for 2205 12N14P motor driven by SimpleFOCMini and AS5600 I2C encoder.
 
-<img src="https://github.com/user-attachments/assets/8db4855a-0a6d-413b-b608-32d5083b7aff" width="45%"/>
-<img src="https://github.com/user-attachments/assets/f995ee8b-6fcf-4b22-a98d-cbc143492546" width="45%" />
-<img src="https://github.com/user-attachments/assets/8355d7b8-7d89-47e4-a35c-abf5f8e7f8ca" width="45%"/>
+<img src="https://github.com/user-attachments/assets/f995ee8b-6fcf-4b22-a98d-cbc143492546" width="35%" />
+<img src="https://github.com/user-attachments/assets/8db4855a-0a6d-413b-b608-32d5083b7aff" width="55%"/>
 <img src="https://github.com/user-attachments/assets/b8ddc608-c414-401d-8baa-07ef4816132a" width="45%"/>
+<img src="https://github.com/user-attachments/assets/8355d7b8-7d89-47e4-a35c-abf5f8e7f8ca" width="45%"/>
+
 
 ## YV3510 (Wrist/Elbow)
 
