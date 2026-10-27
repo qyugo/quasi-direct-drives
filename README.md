@@ -54,13 +54,20 @@ Status: complete. Check out the documentation [here](V1-8308/README.md).
 <img src="https://github.com/user-attachments/assets/8355d7b8-7d89-47e4-a35c-abf5f8e7f8ca" width="45%"/>
 
 
-## YV3510 (Wrist/Elbow)
+## YV3510 (Kt = 0.011-0.013 Nm/A)
 
 <img width="671" height="421" alt="image" src="https://github.com/user-attachments/assets/82fa657a-e70f-430f-8241-a147d4446990" />
 
-## YV4008 (Wrist/Elbow/Shoulder)
+Plan update: 10:1 rotator cuff.
+
+<img width="1137" height="602" alt="image" src="https://github.com/user-attachments/assets/eb01b441-96db-42cf-a853-b2a51e8ca71e" />
+
+
+## YV4008 (Kt = 0.011-0.013 Nm/A)
 
 <img width="564" height="398" alt="image" src="https://github.com/user-attachments/assets/25ff8494-86d6-43d3-8f32-2016f09102fc" />
+
+Update: Elbow, 40:1, 
 
 ## YV2804 (Neck, wrist)
 
