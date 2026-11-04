@@ -32,7 +32,7 @@ P = 1.5 * I^2R
 $$
 
 $$
-I_{cont} = \sqrt{ \frac{P_{th}}{1.5 * R_{phase}}
+I_{cont} = \sqrt{ \frac{P_{th}}{1.5 * R_{phase}}}
 $$
 
 $$
