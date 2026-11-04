@@ -1,3 +1,10 @@
+---
+title: 4008 Motor Test
+nav_order: 1
+parent: 4008 Actuator
+---
+
+
 Testing using my coupling to verify Kv for a 4008 motor.
 
 # 4008 DUT
