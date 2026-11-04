@@ -1,9 +1,15 @@
+---
+title: 3510 Motor
+parent: 3510 Actuator
+nav_order: 1
+---
+
 # 3510 650 KV Motor (General)
 
 Config: 12N14P, stator dim. 35mm x 10mm
 
-<img width="840" height="579" alt="image" src="https://github.com/user-attachments/assets/f85a7e77-1b25-4790-9d75-9046fae04942" />
-
+<img src="https://github.com/user-attachments/assets/f85a7e77-1b25-4790-9d75-9046fae04942" width="41%"/>
+<img src="https://github.com/user-attachments/assets/82fa657a-e70f-430f-8241-a147d4446990" width="45%"/>
 
 ## 1. Tuning Notes
 
