@@ -12,9 +12,9 @@ Repository for my quasi-direct drive actuators for robotic joints.
 <img src="https://github.com/user-attachments/assets/ec7c8f04-55b6-4e16-8a7e-75ff1d892ad9" width="29%"/>
 <img src="https://github.com/user-attachments/assets/36450930-476c-4c39-86ad-d3d915a53cd9" width="27%"/>
 
-<img width="640" height="350" alt="IMG_4307 Medium" src="https://github.com/user-attachments/assets/e11c62a0-1b04-4710-b1ae-3a1c91a6432a" />
+<img width="1280" height="652" alt="IMG_4303 Large" src="https://github.com/user-attachments/assets/ef9267a6-ca16-4692-bf01-0affcd68ad76" />
+<img width="1280" height="700" alt="IMG_4307 Large" src="https://github.com/user-attachments/assets/d6119f1e-9a29-4dcd-a443-5902e6758067" />
 
-<img width="640" height="326" alt="IMG_4303 Medium" src="https://github.com/user-attachments/assets/464289e5-2f8d-40be-bdf4-128aa333efc4" />
 
 
 
