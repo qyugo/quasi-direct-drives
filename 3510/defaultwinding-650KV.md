@@ -29,16 +29,25 @@ Copper loss in FOC is described as follows:
 
 $$
 P = 1.5 * I^2R
-I_{cont} = \sqrt{ \frac{P_{th}{1.5 * R_{phase}}
+$$
+
+$$
+I_{cont} = \sqrt{ \frac{P_{th}}{1.5 * R_{phase}}
+$$
+
+$$
 \tau_{cont} = Kt*I_{cont}
 $$
 
 Assumptions:
-Line-to-line phase resistance $ R_{phase} = 100m\Omega $ (Listing stated $65m\Omega$
+Line-to-line phase resistance $ R_{phase} = 100 m\Omega $ (Listing stated $65m\Omega$
 Non-heatsunk power dissipation: 10W
 
 $$ 
 I_{cont} = 11.5A 
+$$
+
+$$
 \tau_{cont} = 0.15N*m
 $$
 
