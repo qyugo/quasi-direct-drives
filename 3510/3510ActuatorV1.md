@@ -1,3 +1,9 @@
+---
+title: 3510 Actuator
+nav_order: 3
+permalink: /
+---
+
 # 3510 Actuator V1
 
 <img src = "https://github.com/user-attachments/assets/eb01b441-96db-42cf-a853-b2a51e8ca71e" width="60%" >
