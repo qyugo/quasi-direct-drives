@@ -34,6 +34,7 @@ $$KV = \frac{RPM}{Vpp/2}$$
 | 10 | 600 | 1.73 | 1.75 | 1.740 | -0.03 | -0.07 | 70.42 | 70.42 |
 
 ODrive dyno current and speed:
+
 | Command (rev/s) | Rows | Duration (s) | Mean speed (rev/s) | Speed std (rev/s) | Speed min (rev/s) | Speed max (rev/s) | Mean current (A) | Current std (A) |
 |---|---|---|---|---|---|---|---|---|
 | 3 | 1255 | 15.17 | 3.0017 | 0.0381 | 2.880 | 3.129 | -0.172 | 0.106 |
