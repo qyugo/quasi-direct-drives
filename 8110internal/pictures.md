@@ -1,4 +1,12 @@
-8110 Internal Planetary 6:1
+---
+title: 8110 Actuator (Internal)
+nav_order: 5
+has_children: true
+---
+
+# 8110 Internal Planetary 6:1
+
+In this variant, the ring gear + gearbox is located on the inside of the stator, allowing for a smaller, more compact design.
 
 <img width="567" height="278" alt="Screenshot 2026-11-01 at 3 53 39 PM" src="https://github.com/user-attachments/assets/8d7060b3-f1aa-4ad8-936c-b4cc009f9d60" />
 
