@@ -8,6 +8,11 @@ permalink: /
 
 <img src = "https://github.com/user-attachments/assets/eb01b441-96db-42cf-a853-b2a51e8ca71e" width="60%" >
 
+Actuator with YVGESC case V1 (looks like a camera...)
+
+<img width="419" height="310" alt="Screenshot 2026-11-05 at 2 38 38 PM" src="https://github.com/user-attachments/assets/8a9377da-d31b-48dd-821c-c3ed703d9e04" />
+
+
 Mechanical specs: 10:1 QDD, Ø70mm x 56.5mm.
 
 ## Theoretical Performance Specs
