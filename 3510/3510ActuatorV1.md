@@ -1,7 +1,7 @@
 ---
 title: 3510 Actuator
 nav_order: 3
-permalink: /
+has_children: true
 ---
 
 # 3510 Actuator V1
